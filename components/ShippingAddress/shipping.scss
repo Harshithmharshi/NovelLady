@@ -1,0 +1,45 @@
+.eng_shipping-container {
+    background-color: white !important;
+}
+.container {
+    display: grid;
+    background-color: white;
+}
+
+.eng_shipping-breadcrumb{
+    margin-top: 50px;
+    text-align: justify;
+    margin-left: 130px;
+}
+
+.eng_shipping-address-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8%;
+}
+
+.eng_shipping-address {
+    margin-bottom: 25%;
+    margin-left:2%;
+    border: 1px solid grey;
+    padding: 15px;
+    text-align: left;
+   
+}
+
+.eng_price-details {
+    margin-top: 50px;
+    padding: 1rem;
+    border: 1px solid grey;
+    width: 40%;
+    margin-right:7%;
+    text-align: left;
+    height: 60%;
+    margin-bottom: 20px;
+}
+
+.eng_price-details-items {
+    display: flex;
+    justify-content: space-between;
+    
+}
