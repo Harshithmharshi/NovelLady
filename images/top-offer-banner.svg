@@ -1,0 +1,10 @@
+<svg id="top-offer-banner" xmlns="http://www.w3.org/2000/svg" width="1366" height="50" viewBox="0 0 1366 50">
+  <rect id="Rectangle_109" data-name="Rectangle 109" width="1366" height="50" fill="#c7bc36"/>
+  <g id="Group_353" data-name="Group 353" transform="translate(26)">
+    <text id="END_OF_SEASON_SALE" data-name="END OF SEASON SALE" transform="translate(458 33)" fill="#fff" font-size="21" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-120.781" y="0">END OF SEASON SALE</tspan></text>
+    <text id="GET_50_OFF" data-name="GET 50% OFF" transform="translate(682 33)" fill="#fff" font-size="21" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-72.44" y="0">GET 50% OFF</tspan></text>
+    <text id="USE_CODE_EOS50" data-name="USE CODE EOS50" transform="translate(881 33)" fill="#fff" font-size="21" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-95.76" y="0">USE CODE </tspan><tspan y="0" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800">EOS50</tspan></text>
+  </g>
+  <path id="Path_137" data-name="Path 137" d="M-1054.774-79.2s9.029-10.573,16.964,0,17.1,0,17.1,0" transform="translate(2083.917 -22.62) rotate(-7)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  <path id="Path_138" data-name="Path 138" d="M0,4.7s9.029,10.573,16.964,0,17.1,0,17.1,0" transform="translate(338.591 31.979) rotate(-173)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+</svg>
